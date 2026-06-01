@@ -110,10 +110,3 @@ These principles apply beyond CRM—to any system intended to guide daily operat
 Tenax demonstrates how rethinking CRM architecture around execution changes both adoption and system effectiveness. By aligning data models, workflows, and insights with real-world usage, CRM systems can evolve from passive databases into active execution engines.
 
 For developers and product teams, the lesson is clear: systems gain value not by capturing more data, but by helping users act on what matters next.
-
----
-
-## Author
-
-Guest contributor  
-Product systems & CRM architecture
